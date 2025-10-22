@@ -20,7 +20,7 @@ func FormatBadges(totalBadge string, yearBadges []string) string {
 		lines = append(lines, strings.Join(yearBadges[i:chunk], "\n"))
 	}
 
-	return strings.Join(lines, "\n<br>\n")
+	return fmt.Sprintf("<div>\n%s\n</div>\n", strings.Join(lines, "\n<br>\n"))
 }
 
 func UpdateReadme(serialized string) error {

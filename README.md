@@ -5,11 +5,12 @@ A simple tool to generate completion badges for the Advent of Code.
 ## Preview
 
 <!-- AOCR_BADGES_START -->
-<img src="https://img.shields.io/badge/total_stars%20⭐-101%2F548-fcd34d?style=for-the-badge">
+<div>
+<img src="https://img.shields.io/badge/total_stars%20⭐-96%2F548-fcd34d?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/2015%20⭐-02%2F50-e5e5e5">
 <img src="https://img.shields.io/badge/2016%20⭐-50%2F50-fcd34d">
-<img src="https://img.shields.io/badge/2017%20⭐-02%2F50-e5e5e5">
+<img src="https://img.shields.io/badge/2017%20⭐-00%2F50-a8a29e">
 <img src="https://img.shields.io/badge/2018%20⭐-00%2F50-a8a29e">
 <img src="https://img.shields.io/badge/2019%20⭐-00%2F50-a8a29e">
 <br>
@@ -17,10 +18,12 @@ A simple tool to generate completion badges for the Advent of Code.
 <img src="https://img.shields.io/badge/2021%20⭐-00%2F50-a8a29e">
 <img src="https://img.shields.io/badge/2022%20⭐-00%2F50-a8a29e">
 <img src="https://img.shields.io/badge/2023%20⭐-00%2F50-a8a29e">
-<img src="https://img.shields.io/badge/2024%20⭐-00%2F50-a8a29e">
+<img src="https://img.shields.io/badge/2024%20⭐-03%2F50-e5e5e5">
 <br>
 <img src="https://img.shields.io/badge/2025%20⭐-24%2F24-fcd34d">
-<img src="https://img.shields.io/badge/2026%20⭐-23%2F24-e5e5e5">
+<img src="https://img.shields.io/badge/2026%20⭐-17%2F24-e5e5e5">
+</div>
+
 <!-- AOCR_BADGES_END -->
 
 ## Details
