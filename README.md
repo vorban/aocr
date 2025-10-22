@@ -47,6 +47,12 @@ There are 3 scenarios:
 2. readme file found without markers -> prepends badges to the file
 3. readme file found with markers -> overwrites the badges
 
+## Compiling
+
+```sh
+go build ./cmd/aocr
+```
+
 ## Todolist that you know won't be done for the next 3 years
 
 - [ ] `stdout` flag to dump the badges to the stdout
