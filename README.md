@@ -53,6 +53,12 @@ There are 3 scenarios:
 go build ./cmd/aocr
 ```
 
+If you want to add it to your path at the same time:
+
+```sh
+go install ./cmd/aocr # somewhere in $GOBIN
+```
+
 ## Todolist that you know won't be done for the next 3 years
 
 - [ ] `help` flag or command
