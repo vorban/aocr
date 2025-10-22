@@ -32,6 +32,6 @@ func TotalStarsBadge(list []aoc.AocYear) string {
 		total += aocYear.Stars
 	}
 
-	return fmt.Sprintf(`<img src="https://img.shields.io/badge/total_stars%%20⭐-%02d%%2F%02d-fcd34d?style=for-the-badge">`,
+	return fmt.Sprintf(`<img src="https://img.shields.io/badge/total_stars%%20⭐-%03d%%2F%03d-fcd34d?style=for-the-badge">`,
 		totalObtained, total)
 }
