@@ -55,6 +55,8 @@ go build ./cmd/aocr
 
 ## Todolist that you know won't be done for the next 3 years
 
+- [ ] `help` flag or command
+- [ ] fix the ctrl+c not working (at least on windows)
 - [ ] `stdout` flag to dump the badges to the stdout
 - [ ] better readme existence check - be case insensitive
 - [ ] serialize stars obtained in the produced html
