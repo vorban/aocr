@@ -14,7 +14,7 @@ func getAocYears() []int {
 	lastYear := now.Year()
 
 	if now.Month() < time.December {
-		lastYear++
+		lastYear--
 	}
 
 	years := []int{}
